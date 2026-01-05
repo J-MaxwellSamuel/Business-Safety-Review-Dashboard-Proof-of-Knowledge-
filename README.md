@@ -3,26 +3,10 @@
 
 ## Purpose
 
-This project provides a comprehensive solution for [brief description of what your project does]. Built with [main technologies], it offers [key benefits or features that make it valuable].
+This project was created to showcase my skills in Power BI. I used AI generated sample data based on safety operations within a manufacturing company to build the dashboard and supporting analysis.
 
-## Results & Business Recommendation
+The folders above include snapshots of my work, as well as the full Power BI dashboard file.
 
-### Key Results
-
-### Business Recommendations
-
-## Next Steps
-
-### Immediate Actions
-
-### Future Enhancements
-
-### Getting Started
+This project simulates key business intelligence initiatives that organizations can use to manage workplace safety more effectively. It highlights how data can help ensure the right users are reviewing critical incidents, safety actions, and risks, while supporting timely decision-making throughout the daily management system lifecycle.
 
 
-
-For questions or feedback, reach out at [your-email@example.com]
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
