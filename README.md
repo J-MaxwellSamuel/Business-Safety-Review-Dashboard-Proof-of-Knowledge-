@@ -1,5 +1,5 @@
 # Business Case: 
-Safety Review Dashboard for Safety Leaders (Sample Proof of Work)
+## Safety Review Dashboard for Safety Leaders (Sample Proof of Work)
 
 ## Purpose
 
